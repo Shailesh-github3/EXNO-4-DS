@@ -25,5 +25,16 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
        # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/user-attachments/assets/4a5f6483-cc4e-4188-9088-9cecc9bfccc8)
+![image](https://github.com/user-attachments/assets/6c77a481-5e8e-468f-9a7b-249796ef98fc)
+![image](https://github.com/user-attachments/assets/c535341c-3dec-40d6-9cfc-b40176eb4edf)
+![image](https://github.com/user-attachments/assets/dba1d940-6bc2-4744-b6bb-3b46b2efd686)
+![image](https://github.com/user-attachments/assets/1a689bf8-7307-413a-b2ef-598176cd3471)
+![image](https://github.com/user-attachments/assets/cec110ea-1cc2-4523-a0d7-5dc60f65c2a8)
+![image](https://github.com/user-attachments/assets/fbc68658-537b-4a64-a626-0d7afeddb0bf)
+![image](https://github.com/user-attachments/assets/a91e7e09-2511-4ff6-8a1e-6bce623cc3a3)
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
+![image](https://github.com/user-attachments/assets/ec4ae04b-93eb-4f53-9acf-b83271745512)
+
